@@ -2,7 +2,7 @@
 - 👀 I’m interested in astrophysics, analysis and food!
 - 🌱 I’m currently learning machine learning to become a data scientist.  
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : o.s.scallon@gmail.com
+- 📫 How to reach me : 
 
 <!---
 scallon/scallon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
