@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olivia @scallon
-- 👀 I’m interested in astrophysics, analysis and food!
-- 🌱 I’m currently learning machine learning to become a data scientist.  
+- 👀 I’m interested in astrophysics, data analysis and food!
+- 🌱 I’m currently a data scientist at Potloc.  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : 
 
