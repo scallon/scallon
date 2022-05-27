@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Olivia @scallon
-- 👀 I’m interested in astrophysics, data analysis and food!
+- 👋 Hi, I’m Olivia Scallon @scallon
+- 👀 I’m interested in astrophysics, particle physics, data analysis, machine learning and food!
 - 🌱 I’m currently a data scientist at Potloc.  
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : 
+- 📫 How to reach me : by e-mail
 
 <!---
 scallon/scallon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
