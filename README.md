@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olivia Scallon @scallon
 - 👀 I’m interested in astrophysics, particle physics, data analysis, machine learning and food!
-- 🌱 I’m currently a data scientist at Potloc.  
+- 🌱 I’m currently a data scientist for thrustworthy AI at Confiance IA (CRIM).  
 - 📫 How to reach me : by e-mail
 
 <!---
